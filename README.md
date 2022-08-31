@@ -18,6 +18,6 @@ https://github.com/nyrhub/AHK-Minecraft-cheat/blob/main/Minecraft%20Cheat.exe?ra
 ```
 
 ## Credits
-Made by nyr
-Memory class by RHCP (I think)
+Made by nyr<br>
+Memory class by RHCP (I think)<br>
 GUI : ??? I don't remember
